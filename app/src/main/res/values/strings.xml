@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">puck Radius</string>
+    <string name="mapbox_access_token">PUBLIC_TOKEN</string>
+</resources>
